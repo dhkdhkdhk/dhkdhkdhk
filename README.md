@@ -22,6 +22,8 @@
 
 
 [영남이공대](http://www.ync.ac.kr)
+
+![프로필 이미지](./image2.png)
 <!--
 **dhkdhkdhk/dhkdhkdhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
